@@ -7,7 +7,7 @@
 		- TFS, VSTS, SVN
 
 
-![alt text](https://github.com/EMraan619/Neosoft-dotnet/blob/main/01/Images/1VCS%20.png?raw=true)
+![Application Architecture](https://github.com/EMraan619/Neosoft-dotnet/blob/main/01/Images/1VCS%20.png)
 # Git
 ## Basic Git and commands
 - `cd 'path'` -> change directory
